@@ -16,3 +16,7 @@ BuyFast webapp is built on Python and Vue.js as backend and fronend respectively
 Backend codes found in the main branch.
 
 Frontend in the master branch
+
+### Technologies
+- Python (Django) as Backend
+- JavaScript (Vue.js) as Frontend
